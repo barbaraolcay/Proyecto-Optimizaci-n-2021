@@ -1,0 +1,312 @@
+Curso (i),Seccion (k),Modulo (mu),Alumnos inscritos (a_i)
+Accidentes viales,1,10,6
+Algebra lineal,1,3,76
+Algebra lineal,2,3,106
+Algebra lineal,3,3,98
+Algebra lineal,4,3,107
+Algoritmos y aleatoriedad,1,3,8
+Analisis estructural I,1,7,44
+Analisis sismico,1,1,32
+Antro diseño,1,2,19
+Aprendizaje de maquina informado por modelos fisicos,1,8,16
+Arquitectura de computadores,1,7,35
+Arquitectura de sistemas de software,1,7,99
+Biotecnologia molecular,1,10,37
+Calculo I,1,4,112
+Calculo I,2,4,99
+Calculo I,3,5,111
+Calculo I,4,5,114
+Calculo I,5,4,101
+Calculo II,1,4,46
+Calculo II,2,4,31
+Calculo II,3,4,70
+Calculo II,4,4,70
+Calculo II,5,3,66
+Calculo II,6,3,64
+Calculo II,7,3,70
+Calculo II,8,3,72
+Calculo II,9,2,24
+Calculo II,10,2,24
+Calculo II,11,2,67
+Calculo II,12,2,66
+Calculo II,13,4,66
+Calculo II,14,4,68
+Calculo II,15,5,67
+Calculo II,16,5,73
+Calculo II,17,5,78
+Calculo II,18,5,70
+Calculo II,19,2,66
+Calculo II,20,2,68
+Calculo III,1,2,101
+Calculo III,2,2,106
+Calculo III,3,3,84
+Calculo III,4,3,92
+Ciencia de los alimentos ,1,10,15
+Ciencia de los materiales,1,4,58
+Circuitos electricos,1,2,110
+Comportamiento mecanico de materiales,1,11,37
+Computacion ciencia y tencologia del mundo digital ,1,8,109
+Comunicaciones digitales,1,8,3
+Comunicaciones digitales,2,8,2
+Comunicaciones inalambricas,1,7,9
+Construccion de obras civiles,1,2,35
+Contabilidad y control de gestion,1,1,105
+Contabilidad y control de gestion,2,1,99
+Contabilidad y control de gestion,3,5,70
+Contaminacion atmosferica,1,2,62
+Control automatico,1,3,50
+Control de sistemas mecanicos,1,2,24
+Control de sistemas mecanicos,2,2,24
+Conversion de energia ,1,10,60
+Desafios de la Ingenieria,1,1,92
+Desafios de la Ingenieria,2,1,91
+Desafios de la Ingenieria,3,1,44
+Dilab laboratorio diseño en ingenieria y sistemas,1,4,25
+Dinamica de estructuras,1,2,13
+Dinamica de sistemas mecanicos,1,2,64
+Dinamica Fis,1,2,52
+Dinamica Fis,2,2,54
+Dinamica Fis,3,3,52
+Dinamica Fis,4,3,51
+Dinamica Fis,5,4,34
+Dinamica Fis,6,4,25
+Dinamica Fis,7,4,46
+Dinamica Fis,8,4,40
+Dinamica Fis,9,3,55
+Dinamica Fis,10,3,56
+Dinamica Fis,11,2,30
+Dinamica Fis,12,2,19
+Dinamica Fis,13,2,43
+Dinamica Fis,14,2,46
+Dinamica ice,1,2,59
+Dinamica ice,2,2,58
+Dinamica ice,3,3,53
+Dinamica ice,4,3,51
+Dinamica y control de procesos,1,4,61
+Dinamica y control de sistemas,1,3,9
+Diseño de edificios sustentables,1,10,28
+Diseño de elementos de maquinas,1,3,35
+Diseño de reactores,1,3,76
+Diseño en acero avanzado,1,9,17
+Diseño estructural,1,3,52
+Diseño Grafico,1,7,102
+Diseño Mecanico,1,1,53
+Diseño y analisis de algoritmos,1,5,82
+Diseño y construccion en madera,1,3,45
+Econometria aplicada,1,2,124
+Economia de transporte,1,2,35
+Ecuaciones Diferenciales,1,9,77
+Ecuaciones Diferenciales,2,9,89
+Ecuaciones Diferenciales,3,9,89
+Ecuaciones Diferenciales,4,9,67
+Electricidad y Magnetismo,1,1,115
+Electricidad y Magnetismo,2,1,119
+Electricidad y Magnetismo,3,4,89
+Electricidad y Magnetismo,4,7,107
+Electricidad y Magnetismo,5,1,120
+Electricidad y Magnetismo,6,4,119
+Electro optica,1,10,4
+Electronica ,1,3,56
+Electronica de potencia,1,8,23
+Elementos finitos en diseño mecanicos,1,4,14
+Elementos finitos no lineales,1,9,8
+En busqueda del bienestar que nos dice la ciencia,1,11,105
+Equilibrio en redes de transporte,1,9,62
+Estatica,1,7,110
+Estatigrafia y procesos sedimentarios y volcanicos,1,9,1
+Estructuras de datos y algoritmos,1,4,112
+Estructuras de datos y algoritmos,2,4,111
+Evaluacion de proyectos,1,4,34
+Evaluacion de proyectos,2,5,42
+Evaluacion de proyectos,3,5,35
+Evaluacion de proyectos,4,4,41
+Evaluacion de proyectos,5,5,43
+Evaluacion de proyectos,6,4,43
+Evaluacion de proyectos,7,5,42
+Evaluacion de proyectos,8,4,33
+Externalidades de transporte,1,5,5
+Fenomenos de transporte,1,2,115
+Finanzas,1,2,56
+Finanzas,2,3,169
+Finanzas,3,8,75
+Finanzas,4,9,73
+Fluidodinamica computacional,1,11,17
+Flujo en redes,1,1,37
+Fundaciones,1,4,19
+Fundamentos de biotecnologia,1,3,31
+Fundamentos de geotecnia,1,2,40
+Fundamentos de procesamiento de imagenes,1,9,29
+Fundamentos de procesamiento de imagenes,2,9,21
+Fundamentos de simulacion de sistemas estocasticos,1,8,22
+Fundamentos de teoria electromagnetica,1,4,56
+Geofisica general,1,2,10
+Geologia minera,1,3,28
+Geomecanica computacional,1,5,10
+Geoquimica y petrogenesis,1,8,2
+Gestion ambiental,1,3,40
+Gestion de operaciones,1,8,269
+Gestion de operaciones de construccion,1,8,28
+Gestion de proyectos de tecnologias de informacion,1,7,125
+Gestion de recursos hidricos,1,8,35
+Gestion estrategica de empresas mineras,1,5,33
+Hidraulica fluvial,1,2,9
+Hidraulica urbana,1,10,40
+Hormigon armado,1,1,60
+Hormigon pretensado,1,8,26
+Ingenieria ambiental,1,9,55
+Ingenieria ambiental,2,8,47
+Ingenieria ambiental,3,10,51
+Ingenieria de construccion,1,8,61
+Ingenieria de sistemas de transporte,1,2,47
+Ingenieria de sotfware,1,9,118
+Ingenieria de sotfware,2,9,147
+Ingenieria de superficie y tribologia,1,2,11
+Ingenieria hidraulica,1,4,115
+Ingenieria vial,1,2,25
+Integracion de energia solar termica a procesos industriales,1,10,20
+Inteligencia artificial,1,2,140
+Introduccion a la Economia,1,2,138
+Introduccion a la Economia,2,1,127
+Introduccion a la Economia,3,1,125
+Introduccion a la Economia,4,1,141
+Introduccion a la Economia,5,1,128
+Introduccion a la Economia,6,2,131
+Introduccion a la geologia fisica,1,8,42
+Introduccion a la mineria,1,10,66
+Introduccion a la Programacion,1,7,108
+Introduccion a la Programacion,2,7,98
+Introduccion a la Programacion,3,7,104
+Introduccion a la Programacion,4,7,104
+Introduccion a la Programacion,5,8,100
+Introduccion a la Programacion,6,8,180
+Introduccion a la Programacion,7,8,96
+Introduccion a la Programacion,8,8,101
+Introduccion a la Programacion,9,8,77
+Introduccion a la Programacion,10,8,37
+introduccion a las aplicaciones computacionales,1,1,84
+introduccion a las aplicaciones computacionales,2,9,78
+Investigacion innovacion y emprendimiento,1,1,60
+Investigacion innovacion y emprendimiento,2,1,48
+Investigacion innovacion y emprendimiento,3,1,59
+Investigacion innovacion y emprendimiento,4,1,56
+Investigacion innovacion y emprendimiento,5,4,59
+Investigacion innovacion y emprendimiento,6,4,56
+Investigacion innovacion y emprendimiento,7,4,60
+Investigacion innovacion y emprendimiento,8,4,56
+Maquinas electricas,1,2,40
+Marketing,1,2,95
+Marketing,2,9,90
+Marketing,3,10,40
+Marketing,4,1,59
+Marketing,5,1,56
+Matematicas discretas,1,2,127
+Matematicas discretas,2,2,126
+Matematicas discretas,3,2,78
+Materiales de ingenieria civil,1,1,50
+Materiales de ingenieria civil,2,11,55
+Mecanica de Fluidos,1,3,88
+Mecanica de Fluidos,2,3,82
+Mecanica de Fluidos,3,4,127
+Mecanica de Fluidos,4,4,120
+Mecanica de materiales,1,5,35
+Mecanica de solidos,1,3,19
+Mecanica de solidos,2,3,25
+Mecanica de solidos,3,3,23
+Mecanica de suelos,1,2,43
+Mentalidad y metodos de empredimiento,1,1,24
+Metalurgia fisica,1,4,5
+Metodos de optimizacion,1,5,124
+Metodos numericos en ingenieria,1,4,11
+Microeconomia,1,2,99
+Microeconomia,2,3,147
+Microeconomia,3,1,76
+Mineria a cielo abierto,1,8,17
+Mineria subterranea,1,9,12
+Modelacion computacional de fenomenos de transporte,1,9,8
+Modelacion hidrologica,1,9,29
+Modelos avanzados de trafico,1,3,10
+Modelos de demanda de transporte,1,3,40
+Modelos de procesos,1,3,51
+Modelos de procesos,2,3,41
+Modelos de trafico,1,8,35
+Modelos estocasticos,1,2,78
+Modelos estocasticos,2,3,115
+Modelos estocasticos,3,3,126
+Modelos estocasticos,4,1,71
+Optica adaptiva,1,2,8
+Optimizacion,1,1,113
+Optimizacion,2,1,130
+Optimizacion,3,2,131
+Optimizacion,4,2,82
+Optimizacion,5,3,83
+Optimizacion dinamica,1,3,20
+Organizacion y comportamiento de la empresa,1,2,80
+Organizacion y comportamiento de la empresa,2,2,87
+Organizacion y comportamiento de la empresa,3,3,116
+Planificacion de sistemas de transporte,1,2,15
+Planificacion minera,1,11,21
+Planificacion y control de proyectos,1,9,74
+Probabilidades y Estadistica,1,8,130
+Probabilidades y Estadistica,2,7,136
+Probabilidades y Estadistica,3,9,130
+Probabilidades y Estadistica,4,9,127
+Probabilidades y Estadistica,5,8,134
+Probabilidades y Estadistica,6,7,130
+Probabilidades y Estadistica,7,7,101
+Procesamiento avanzado de imagenes,1,2,7
+Procesamiento avanzado de imagenes,2,2,5
+Procesamiento avanzado de señales,1,9,8
+Procesos electroquimicos en la industria minera,1,7,0
+Procesos metalurgicos,1,1,28
+Procesos mineralurgicos,1,1,13
+Procesos quimicos ,1,3,56
+Procesos superficiales y peligros geologicos,1,1,7
+Programacion entera,1,9,15
+Propiedades y resistencia de materiales,1,5,42
+Propiedades y resistencia de materiales,2,3,89
+Prototipado y validacion de innovaciones tecnologicas,1,4,8
+Quimica y analisis de alimentos,1,7,19
+Reconstruccion y restauracion de imagenes,1,8,9
+Refrigeracion ventilacion y climatizacion,1,9,16
+Señales y sistemas,1,3,80
+Sistemas de informacion,1,8,77
+Sistemas de informacion,2,8,104
+Sistemas de informacion,3,8,103
+Sistemas de potencia,1,5,12
+Sistemas digitales,1,8,61
+Sistemas dinamicos,1,2,11
+Sistemas distribuidos,1,3,69
+Sistemas electromecanicos,1,9,39
+Sistemas operativos y redes,1,1,189
+Sistemas recomendadores,1,9,56
+Sistemas solares fotovoltaicos,1,2,18
+Taller de evaluacion tratamiento y remediacion ambiental,1,3,60
+Taller de ingenieria de transporte ,1,1,14
+Taller de mejoramiento en ingenieria de construccion,1,4,35
+Taller de planificacion minera,1,12,15
+Tecnologia de medios de transporte,1,7,23
+Tecnologia y aplicaciones web ,1,8,89
+Tecnologia y aplicaciones web ,2,9,80
+Tecnologias de generacion electrica,1,2,49
+Tecnologias de refrigeriacion,1,8,13
+Tecnologias para inteligencia de negocios,1,3,31
+Teoria de automatas y lenguajes formales,1,2,77
+Teoria electromagnetica,1,9,112
+Termodinamica fis,1,8,131
+Termodinamica fis,2,8,97
+Termodinamica Qim,1,7,42
+Termodinamica Qim,2,1,39
+Termofluidos,1,7,20
+Testing,1,1,98
+Topicos avanzados en inteligencia artifical,1,3,18
+Topicos en ingenieria mecanica y metalurgia,1,11,6
+Topografia y geoinformacion aplicada,1,7,38
+Trafico en autopista,1,9,11
+Transferencia de calor,1,12,35
+Transporte aereo,1,8,40
+Transporte de relaves,1,8,1
+Transporte hidraulico de solidos,1,8,11
+Transporte publico,1,3,39
+Vision por computador,1,3,19
+Vision por computador,2,3,32
+Visualizacion de informacion,1,8,116
